@@ -1,0 +1,18 @@
+
+{
+"name": "com.levelpogression.core",
+"version": "1.0.0",
+"displayName": "Level progression",
+"description": "",
+"unity": "2022.3",
+"unityRelease": "20f1",
+"documentationUrl": "",
+"author": {
+"name": "Vijay Kumar",
+"email": "Vijjuroy.vk@gmail.com",
+"url": "https://www.Vkgroups.com"
+ },
+ "dependencies": {
+   "com.unity.textmeshpro": "1.0.54"
+ }
+}
